@@ -1,4 +1,4 @@
-![logo](https://github.com/dawoodkhatri1/dawoodkhatri1/blob/main/futurism-perspective-digital-nomads-lifestyle.jpg)
+![logo](https://github.com/dawoodkhatri1/dawoodkhatri1/blob/main/Banner.png)
 
 # Welcome to My Developer Profile! 🌟  
   
