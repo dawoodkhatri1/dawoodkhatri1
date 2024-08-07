@@ -33,8 +33,6 @@ In addition to my web development expertise, I've developed skills in Java, Pyth
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dawoodkhatri1&show_icons=true&locale=en&theme=radical" alt="dawoodkhatri1" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dawoodkhatri1&theme=radical" alt="dawoodkhatri1" /></p><p>&nbsp;
 
-
-
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dawoodkhatri1&theme=radical&no-frame=false&no-bg=true&margin-w=4)<p>&nbsp;
 
@@ -43,3 +41,12 @@ In addition to my web development expertise, I've developed skills in Java, Pyth
 
 # Get Involved:  
 Feel free to explore my repository and contribute to its development! I'm always open to new ideas and collaborations. Let's work together to create something amazing! 💻
+
+<div align="center">
+  <h2>🐍 My Contribution 🐍</h2>
+  <br> 
+    <img alt ="snake eating my contributions" src = "https://raw.githubusercontent.com/dawoodkhatri1/dawoodkhatri1/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+<br/>
