@@ -39,9 +39,8 @@ In addition to my web development expertise, I've developed skills in Java, Pyth
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dawoodkhatri1&limit=5&theme=radical&combine_all_yearly_contributions=true)<p>&nbsp;
 
-# Get Involved:  
-Feel free to explore my repository and contribute to its development! I'm always open to new ideas and collaborations. Let's work together to create something amazing! 💻
+# 💻 Get Involved:  
+Feel free to explore my repository and contribute to its development! I'm always open to new ideas and collaborations. Let's work together to create something amazing!
 
-# Contribution 
-
-![snake gif](https://github.com/dawoodkhatri1/dawoodkhatri1/blob/output/github-contribution-grid-snake.gif)
+# 🐍 Contribution 
+![snake gif](https://github.com/dawoodkhatri1/dawoodkhatri1/blob/output/github-contribution-grid-snake-dark.svg)
