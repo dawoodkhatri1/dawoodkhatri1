@@ -42,3 +42,6 @@ In addition to my web development expertise, I've developed skills in Java, Pyth
 # Get Involved:  
 Feel free to explore my repository and contribute to its development! I'm always open to new ideas and collaborations. Let's work together to create something amazing! 💻
 
+# Contribution 
+
+![snake gif](https://github.com/dawoodkhatri1/dawoodkhatri1/blob/output/github-contribution-grid-snake.gif)
