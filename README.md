@@ -1,4 +1,4 @@
-![logo](https://github.com/dawoodkhatri1/dawoodkhatri1/blob/main/Banner.png)
+![logo](https://github.com/user-attachments/assets/5ea93504-fe05-459c-8733-a293444be59c)
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&color=b22c7b&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!;Welcome!;I+am+Dawood+M.Shoaib.;A+web+developer+from+karachi." alt="Typing SVG" />
