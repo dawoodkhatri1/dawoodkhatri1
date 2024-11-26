@@ -7,9 +7,11 @@
 
 # Welcome to My Developer Profile! 🌟  
   
-I'm Dawood M.Shoaib, a passionate and multifaceted developer with a drive to craft innovative web applications and a knack for programming languages. With a solid foundation in web development, I've honed my skills in HTML, CSS, and JavaScript to create rich, interactive, and responsive user experiences. I'm always looking to expand my knowledge of front-end development and stay up-to-date with the latest trends.  
-  
-In addition to my web development expertise, I've developed skills in Java, Python, and C++ to create robust and scalable back-end applications. My enthusiasm for programming knows no bounds, and I'm always eager to learn and explore new technologies.  
+Hello! I'm Dawood M.Shoaib, a <b>Full Stack Developer</b> having experience in creating innovative web applications and having a passion for programming languages. From the strong foundation as a Web Developer, I have learned <b>HTML, CSS, and JavaScript</b> to develop rich, interactive, and responsive user experiences. Beyond the front-end boundaries, I excel as a <b>Backend Developer</b> with the skills I have in <b>Java, Python, C++, and frameworks such as Laravel</b>, which help in creating robust and highly scalable applications.
+
+Now, my curiosity does go further to the worlds of <b>Machine Learning and Artificial Intelligence</b>, where I am fairly and moderately active within those realms. I adopt intelligent solutions in development projects, giving a cutting-edge approach at every step.
+
+Fueled by an irrepressible passion for programming, I always maintain a stride to learn and experiment. My aim is to be at the top of the developers list and provide innovative solutions that make all the difference.
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
