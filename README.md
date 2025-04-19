@@ -112,7 +112,6 @@ Fueled by an irrepressible passion for programming, I am committed to continuous
   </a>
 </p>
 
-
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dawoodkhatri1&show_icons=true&locale=en&layout=compact&theme=radical" alt="dawoodkhatri1" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dawoodkhatri1&show_icons=true&locale=en&theme=radical" alt="dawoodkhatri1" /></p>
