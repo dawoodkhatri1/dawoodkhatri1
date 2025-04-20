@@ -1,4 +1,5 @@
-![logo](https://github.com/user-attachments/assets/2f549e4c-41da-4d2c-81d9-a43993b7367a)
+![My LinkedIn Banner](https://github.com/user-attachments/assets/dd2d50e2-425f-4f3e-b601-3f4dd46146e2)
+
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&color=b22c7b&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello!;Welcome!;I+am+Dawood+M.Shoaib.;A+full+stack+developer+from+karachi." alt="Typing SVG" />
