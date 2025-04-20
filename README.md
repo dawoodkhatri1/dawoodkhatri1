@@ -9,7 +9,7 @@
 
 ## 👋 Hi, I'm Dawood M. Shoaib
 
-I'm a Full Stack Web Developer with a strong focus on WordPress, Shopify, Laravel, and JavaScript. I build responsive, user-friendly websites and scalable backend systems using Java, Python, and C++. My experience spans full-stack development, database management, REST APIs, and SEO optimization.
+I'm a Full Stack Developer and Web Developer with a strong focus on WordPress, Shopify, Laravel, and JavaScript. I build responsive, user-friendly websites and scalable backend systems using Java, Python, and C++. My experience spans full-stack development, database management, REST APIs, and SEO optimization.
 
 I'm also passionate about Machine Learning and AI, continuously exploring how intelligent systems can enhance web experiences.
 
