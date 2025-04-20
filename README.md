@@ -113,7 +113,7 @@ I'm also passionate about Machine Learning and AI, continuously exploring how in
   </a>
 </p>
 
-# 💻 Code Mode: Activated
+# ⌨️ Code Mode: Activated
 <img align="center" alt="coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpoc3Q0aHB6cjBranRsdjJqdTRxeW9yOXVpYWtsMTM0Z2w0OHBxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif">
 
 # 📊 GitHub Stats:
