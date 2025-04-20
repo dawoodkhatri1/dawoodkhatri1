@@ -16,7 +16,7 @@ I'm also passionate about Machine Learning and AI, continuously exploring how in
 🔧 Currently building innovative web solutions at I.T. For Less. <br>
 📈 Always learning, optimizing, and striving to make an impact through code.
 
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+<img align="right" alt="coding" height="350" width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHV6cDVwdTAwYnFkOXZnMnduZjdvMXBmYTRoaGxwYjhwbGU4bzF5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawoodkhatri1&label=Profile%20views&color=0e75b6&style=flat" alt="dawoodkhatri1" /> </p>
 
@@ -112,6 +112,9 @@ I'm also passionate about Machine Learning and AI, continuously exploring how in
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="arduino-ide" width="40" height="40"/> 
   </a>
 </p>
+
+# 💻 Code Mode: Activated
+<img align="center" alt="coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpoc3Q0aHB6cjBranRsdjJqdTRxeW9yOXVpYWtsMTM0Z2w0OHBxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif">
 
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dawoodkhatri1&show_icons=true&locale=en&layout=compact&theme=radical" alt="dawoodkhatri1" /></p>
