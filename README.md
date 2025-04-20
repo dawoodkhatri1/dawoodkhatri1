@@ -7,11 +7,14 @@
 
 # Welcome to My Developer Profile! 🌟  
 
-🌟 Hi, I'm Dawood M. Shoaib — a passionate Full Stack Developer and Web Developer with a strong foundation in both frontend and backend technologies. I specialize in building responsive, user-friendly websites using HTML, CSS, JavaScript, and robust backend systems with Laravel, Java, Python, and C++.
+## 👋 Hi, I'm Dawood M. Shoaib
 
-I also work with platforms like WordPress and Shopify, delivering custom solutions that blend functionality with great user experience. Beyond web development, I'm exploring the exciting worlds of Machine Learning and Artificial Intelligence to build smarter applications.
+I'm a Full Stack Web Developer with a strong focus on WordPress, Shopify, Laravel, and JavaScript. I build responsive, user-friendly websites and scalable backend systems using Java, Python, and C++. My experience spans full-stack development, database management, REST APIs, and SEO optimization.
 
-I'm driven by curiosity, creativity, and a love for clean, scalable code. Let's build something amazing! 🚀
+I'm also passionate about Machine Learning and AI, continuously exploring how intelligent systems can enhance web experiences.
+
+🔧 Currently building innovative web solutions at I.T. For Less. <br>
+📈 Always learning, optimizing, and striving to make an impact through code.
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
