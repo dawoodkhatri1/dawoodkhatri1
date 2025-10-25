@@ -1,14 +1,21 @@
-![My LinkedIn Banner](https://github.com/user-attachments/assets/dd2d50e2-425f-4f3e-b601-3f4dd46146e2)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd2d50e2-425f-4f3e-b601-3f4dd46146e2" alt="LinkedIn Banner" width="100%" />
+</p>
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&color=b22c7b&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello!;Welcome!;I+am+Dawood+M.Shoaib.;A+full+stack+developer+from+karachi." alt="Typing SVG" />
 </a>
 </h1>
 
+<br>
+
 # Welcome to My Developer Profile! 🌟  
 
+<br>
+
 ## 👋 Hi, I'm Dawood M. Shoaib
+
+<br>
 
 I'm a Full Stack Developer and Web Developer with a strong focus on WordPress, Shopify, Laravel, and JavaScript. I build responsive, user-friendly websites and scalable backend systems using Java, Python, and C++. My experience spans full-stack development, database management, REST APIs, and SEO optimization.
 
@@ -114,22 +121,143 @@ I'm also passionate about Machine Learning and AI, continuously exploring how in
   </a>
 </p>
 
-# ⌨️ Code Mode: Activated
-<img align="center" alt="coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpoc3Q0aHB6cjBranRsdjJqdTRxeW9yOXVpYWtsMTM0Z2w0OHBxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif">
+<br>
 
-# 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dawoodkhatri1&show_icons=true&locale=en&layout=compact&theme=radical" alt="dawoodkhatri1" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dawoodkhatri1&show_icons=true&locale=en&theme=radical" alt="dawoodkhatri1" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dawoodkhatri1&theme=radical" alt="dawoodkhatri1" /></p><p>&nbsp;
+<h1 align="center">🚀 Featured Projects</h1>
 
-# 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=dawoodkhatri1&theme=onedark&no-frame=false&no-bg=true&margin-w=4)<p>&nbsp;
+<p align="center">
+  <a href="https://github.com/dawoodkhatri1/Scheduling_Algorithms">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dawoodkhatri1&repo=Scheduling_Algorithms&theme=radical" />
+  </a>  
+</p>
 
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dawoodkhatri1&limit=5&theme=radical&combine_all_yearly_contributions=true)<p>&nbsp;
+<p align="center">
+  <a href="https://github.com/dawoodkhatri1/IOT_Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dawoodkhatri1&repo=IOT_Website&theme=radical" />
+  </a>
+</p>
 
-# 💻 Get Involved:  
-Feel free to explore my repository and contribute to its development! I'm always open to new ideas and collaborations. Let's work together to create something amazing!
+<p align="center">
+  <a href="https://github.com/dawoodkhatri1/Utensil_Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dawoodkhatri1&repo=Utensil_Website&theme=radical" />
+  </a>
+</p>
 
-# 🐍 Contribution 
-![snake gif](https://github.com/dawoodkhatri1/dawoodkhatri1/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <a href="https://github.com/dawoodkhatri1/Trading_Landing_Page">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dawoodkhatri1&repo=Trading_Landing_Page&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dawoodkhatri1/Resume_Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dawoodkhatri1&repo=Resume_Website&theme=radical" />
+  </a>
+</p>
+
+<br>
+
+<h1 align="center">🤝 Let's Connect</h1>
+
+<br>
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/dawood-m-shoaib-a6229722a/" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Dawood%20M.%20Shoaib-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:dawoodm.shoaib@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/dawoodkhatri1" target="_blank">
+    <img src="https://img.shields.io/badge/🐙%20GitHub-Follow%20Me-black?style=for-the-badge&logo=github" />
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://dawood-personal-portfolio.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-View%20Site-b22c7b?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+
+  <!-- Resume -->
+  <a href="https://dawood-personal-portfolio.web.app/MyCV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Resume-Download-b22c7b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  ⭐ If you enjoy my projects, consider <b>starring</b> a repo — your support keeps me building! 🚀
+</p>
+
+<br>
+
+<h1 align="center">⌨️ Code Mode: Activated</h1>
+
+<p align="center">
+  <img alt="coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpoc3Q0aHB6cjBranRsdjJqdTRxeW9yOXVpYWtsMTM0Z2w0OHBxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" />
+</p>
+
+<br>
+
+<h1 align="center">📊 GitHub Stats</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dawoodkhatri1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dawoodkhatri1&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dawoodkhatri1&theme=radical" alt="GitHub Streak" />
+</p>
+
+<br>
+
+<h1 align="center">📈 Contribution Activity</h1>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dawoodkhatri1&custom_title=📈%20Contribution%20Activity%20Graph&bg_color=0D1117&color=B22C7B&line=B22C7B&point=FFFFFF&area=true&hide_border=true&area_color=B22C7B" width="95%" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dawoodkhatri1&theme=radical" width="95%" alt="Profile Summary"/>
+</p>
+
+<br>
+
+<h1 align="center">🏆 GitHub Trophies</h1>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=dawoodkhatri1&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+<br>
+
+<h1 align="center">🔝 Top Contributed Repo</h1>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=dawoodkhatri1&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Repos" />
+</p>
+
+<br>
+
+<h1 align="center">🐍 Contribution Snake</h1>
+
+<p align="center">
+  <img src="https://github.com/dawoodkhatri1/dawoodkhatri1/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+</p>
+
+<br>
+
+<h1 align="center">💻 Get Involved</h1>
+
+<p align="center">
+  Feel free to explore my repositories and contribute to their development!<br>
+  I'm always open to new ideas and collaborations.<br>
+  Let's work together to create something amazing! 💡
+</p>
