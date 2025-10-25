@@ -123,7 +123,7 @@ I'm also passionate about Machine Learning and AI, continuously exploring how in
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dawoodkhatri1&theme=radical" alt="dawoodkhatri1" /></p><p>&nbsp;
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dawoodkhatri1&theme=radical&no-frame=false&no-bg=true&margin-w=4)<p>&nbsp;
+![](https://github-profile-trophy.vercel.app/?username=dawoodkhatri1&theme=onedark&no-frame=false&no-bg=true&margin-w=4)<p>&nbsp;
 
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dawoodkhatri1&limit=5&theme=radical&combine_all_yearly_contributions=true)<p>&nbsp;
