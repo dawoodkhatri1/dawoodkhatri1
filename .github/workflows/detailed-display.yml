@@ -12,6 +12,9 @@ jobs:
         with:
           filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          user: dawoodkhatri1
+          template: classic
           base: ""
           plugin_achievements: yes
           plugin_achievements_only: sponsor, maintainer, octonaut
+          config_timezone: Asia/Karachi
