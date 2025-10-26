@@ -10,6 +10,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: github-matrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           user: dawoodkhatri1
           template: classic
