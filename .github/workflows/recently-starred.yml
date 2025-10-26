@@ -12,6 +12,9 @@ jobs:
         with:
           filename: metrics.plugin.stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          user: dawoodkhatri1
+          template: classic
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 3
+          config_timezone: Asia/Karachi
