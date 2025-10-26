@@ -12,6 +12,9 @@ jobs:
         with:
           filename: metrics.plugin.repositories.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          user: dawoodkhatri1
+          template: classic
           base: ""
           plugin_repositories: yes
           plugin_repositories_featured: lowlighter/metrics
+          config_timezone: Asia/Karachi
