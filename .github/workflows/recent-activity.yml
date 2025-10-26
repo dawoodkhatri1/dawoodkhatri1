@@ -8,6 +8,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.activity.svg
@@ -16,7 +17,7 @@ jobs:
           template: classic
           base: ""
           plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          plugin_activity_limit: 10
+          plugin_activity_days: 14
+          plugin_activity_filter: all
           config_timezone: Asia/Karachi
