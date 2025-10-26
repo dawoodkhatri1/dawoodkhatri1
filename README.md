@@ -157,31 +157,33 @@ I'm also passionate about Machine Learning and AI, continuously exploring how in
 
 <br>
 
+<h1 align="center"> 💖 Support My Work </h1>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/dawoodmshoaib">
+    <img src="https://img.shields.io/badge/☕-Buy%20Me%20A%20Coffee-b22c7b?style=for-the-badge&logo=buymeacoffee" />
+  </a>
+</p>
+
+<br>
+
 <h1 align="center">🤝 Let's Connect</h1>
 
 <br>
 
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/dawood-m-shoaib-a6229722a/" target="_blank">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Dawood%20M.%20Shoaib-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://linkedin.com/in/dawood-m-shoaib-a6229722a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Dawood%20M.%20Shoaib-blue?style=for-the-badge&logo=linkedin" />
   </a>
-
-  <!-- Email -->
   <a href="mailto:dawoodm.shoaib@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/dawoodkhatri1" target="_blank">
-    <img src="https://img.shields.io/badge/🐙%20GitHub-Follow%20Me-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/dawoodkhatri1">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github" />
   </a>
-
-  <!-- Portfolio -->
   <a href="https://dawood-personal-portfolio.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-View%20Site-b22c7b?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-View%20Site-b22c7b?style=for-the-badge&logo=firefox" />
   </a>
-
   <!-- Resume -->
   <a href="https://dawood-personal-portfolio.web.app/MyCV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄%20Resume-Download-b22c7b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
@@ -214,6 +216,10 @@ I'm also passionate about Machine Learning and AI, continuously exploring how in
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dawoodkhatri1&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/dawoodkhatri1/github-metrics/blob/main/github-metrics.svg" alt="Metrics" />
 </p>
 
 <br>
