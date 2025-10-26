@@ -12,5 +12,8 @@ jobs:
         with:
           filename: metrics.plugin.traffic.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          user: dawoodkhatri1
+          template: classic
           base: repositories
           plugin_traffic: yes
+          config_timezone: Asia/Karachi
