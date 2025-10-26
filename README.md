@@ -219,7 +219,31 @@ I'm also passionate about Machine Learning and AI, continuously exploring how in
 </p>
 
 <p align="center">
-  <img src="https://github.com/dawoodkhatri1/github-metrics/blob/main/github-metrics.svg" alt="Metrics" />
+  <img src="https://github.com/dawoodkhatri1/dawoodkhatri1/blob/main/metrics.plugin.reactions.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/dawoodkhatri1/dawoodkhatri1/blob/main/metrics.plugin.achievements.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/dawoodkhatri1/dawoodkhatri1/blob/main/metrics.plugin.activity.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/dawoodkhatri1/dawoodkhatri1/blob/main/metrics.plugin.repositories.pinned.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/dawoodkhatri1/dawoodkhatri1/blob/main/metrics.plugin.repositories.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/dawoodkhatri1/dawoodkhatri1/blob/main/metrics.plugin.stars.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/dawoodkhatri1/dawoodkhatri1/blob/main/metrics.plugin.traffic.svg" />
 </p>
 
 <br>
