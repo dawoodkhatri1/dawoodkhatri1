@@ -20,10 +20,3 @@ jobs:
           plugin_reactions_limit: 100
           plugin_reactions_details: percentage
           config_timezone: Asia/Karachi
-      - name: Commit and push result
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add metrics.plugin.reactions.svg
-          git diff --cached --quiet || git commit -m "Update metrics plugin reactions"
-          git push
